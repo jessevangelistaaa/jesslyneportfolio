@@ -145,5 +145,12 @@
     "title": "Experience",
     "section": "",
     "text": "Gallery Ambassador\nLos Angeles, CA | May 2025 – Present\n\nProvide professional customer service to visitors in a fast-paced museum environment.\nMonitor gallery spaces to ensure the safety of artwork and compliance with museum policies.\nCommunicate effectively with visitors and staff while adapting to varying activity levels."
+  },
+  {
+    "objectID": "experience.html#wescom-financial",
+    "href": "experience.html#wescom-financial",
+    "title": "Experience",
+    "section": "",
+    "text": "Data Architecture Intern\nAnaheim, CA | June 2025 – Sep 2025\n\nDeveloped SQL queries using SSMS and Snowflake to analyze branch-level membership activity.\nAnalyzed UCLA student survey data to evaluate brand awareness of Wescom.\nBuilt Power BI dashboards to visualize trends in student banking behavior and engagement.\nCollaborated with the Data Science team to observe machine learning workflows using Dataiku."
   }
 ]
