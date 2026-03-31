@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "B.S. in Statistics and Data Science\nMinor in Data Science Engineering\nUniversity of California, Los Angeles (UCLA)\nExpected Graduation: June 2026"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to my portfolio website! Here you can find my projects, experience, and contact information."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Home",
+    "section": "",
+    "text": "Machine Learning\nData Science\nStatistical Modeling\nData Visualization"
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Home",
+    "section": "",
+    "text": "Projects\nExperience\nAbout Me\nContact"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me\nHi! My name is Jesslyn Evangelista, and I am currently a Statistics and Data Science student at UCLA, with a minor in Data Science Engineering. At UCLA, I have gained experience in areas such as machine learning, statistical modeling, and data visualization. I enjoy exploring how different methods can be used to extract insights from complex datasets and communicate those findings clearly. Through my coursework and projects, I have worked with programming languages such as Python, R, SQL, and C++, and have experience using tools such as Snowflake, Power BI, Tableau, and GitHub. Outside of academics, I am always interested in learning new technologies and expanding my knowledge in data science and machine learning.\n\n\nSkills\nProgramming:\nR · Python · SQL · C++\nData Tools:\nSnowflake · Power BI · Tableau\nAreas of Interest:\nMachine Learning · Data Science · Statistical Modeling · Data Visualization"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "",
+    "text": "Programming - R - Python - SQL - C++\nData Tools - Snowflake - Power BI - Tableau\nAreas of Interest - Machine Learning - Data Science - Statistical Modeling - Data Visualization"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Gallery Ambassador\nLos Angeles, CA | May 2025 – Present\n\nProvide professional customer service to visitors in a fast-paced museum environment.\nMonitor gallery spaces to ensure the safety of artwork and compliance with museum policies.\nCommunicate effectively with visitors and staff while adapting to varying activity levels.\n\n\n\n\nData Architecture Intern\nAnaheim, CA | June 2025 – Sep 2025\n\nDeveloped SQL queries using SSMS and Snowflake to analyze branch-level membership activity.\nAnalyzed UCLA student survey data to evaluate brand awareness of Wescom.\nBuilt Power BI dashboards to visualize trends in student banking behavior and engagement.\nCollaborated with the Data Science team to observe machine learning workflows using Dataiku.\n\n\n\n\nMath Tutor\nPleasant Hill, CA | Sept 2023 – May 2024\n\nProvided one-on-one tutoring to students in mathematics.\nExplained complex concepts in a clear and accessible way.\nHelped over 200 students strengthen their understanding of mathematical problem solving.\n\n\n\n\nDownload My Resume"
+  },
+  {
+    "objectID": "experience.html#wescom-credit-union",
+    "href": "experience.html#wescom-credit-union",
+    "title": "Experience",
+    "section": "",
+    "text": "Data Architecture Intern\nAnaheim, CA | June 2025 – Sep 2025\n\nDeveloped SQL queries using SSMS and Snowflake to analyze branch-level membership activity.\nAnalyzed UCLA student survey data to evaluate brand awareness of Wescom.\nBuilt Power BI dashboards to visualize trends in student banking behavior and engagement.\nCollaborated with the Data Science team to observe machine learning workflows using Dataiku."
+  },
+  {
+    "objectID": "experience.html#diablo-valley-college",
+    "href": "experience.html#diablo-valley-college",
+    "title": "Experience",
+    "section": "",
+    "text": "Math Tutor\nPleasant Hill, CA | Sept 2023 – May 2024\n\nProvided one-on-one tutoring to students in mathematics.\nExplained complex concepts in a clear and accessible way.\nHelped over 200 students strengthen their understanding of mathematical problem solving."
+  },
+  {
+    "objectID": "experience.html#resume",
+    "href": "experience.html#resume",
+    "title": "Experience",
+    "section": "",
+    "text": "Download My Resume"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are selected academic and professional projects demonstrating my experience in machine learning, statistical modeling, and data analytics.\n\n\nDeveloped machine learning models to classify sentiment in movie reviews using the SST-5 dataset. Extracted text-based features and implemented Logistic Regression and KNN classifiers to predict sentiment categories. Model performance was evaluated using cross-validation and ROC-AUC metrics. PCA and K-Means clustering were also applied to sentence embeddings to explore patterns in the text data.\nTools: Python, Scikit-learn, NLP, Logistic Regression, KNN, PCA, K-Means, Sentence Transformers\n\n\n\nBuilt a machine learning classification model to predict whether rolled aluminum components would pass an extreme durability test using manufacturing process variables and alloy composition features. Conducted extensive exploratory data analysis on a dataset containing over 120,000 observations. Compared multiple models including Logistic Regression, Random Forest, XGBoost, LightGBM, and CatBoost, selecting CatBoost due to the lowest log-loss. PCA and K-Means clustering were used to represent alloy composition interactions, and Optuna was used for hyperparameter tuning. The final ensemble model achieved a 0.421 log-loss and ranked 4th place on the leaderboard.\nTools: Python, CatBoost, XGBoost, LightGBM, Random Forest, PCA, K-Means, Optuna, Scikit-learn\n\n\n\nAnalyzed crime data from the LAPD to investigate how crime patterns changed before, during, and after COVID-19. Conducted exploratory data analysis to study trends in crime timing, geographic distribution, and shifts in crime categories. Applied statistical methods including multinomial logistic regression and visualizations to examine how crime types and locations evolved across time periods.\nTools: R, Data Visualization, Statistical Modeling, Multinomial Logistic Regression, Exploratory Data Analysis\n\n\n\nAnalyzed survey and operational data to understand awareness and perceptions of Wescom Credit Union among UCLA students. Used Snowflake to query and manage datasets and Power BI to build interactive dashboards visualizing student banking behavior, brand recognition, and engagement patterns. The results were used to propose data-driven strategies to improve Wescom’s visibility and engagement with UCLA students.\nTools: SQL, Snowflake, Power BI, Data Analysis, Business Analytics"
+  },
+  {
+    "objectID": "projects.html#machine-learning-nlp-movie-review-sentiment-analysis",
+    "href": "projects.html#machine-learning-nlp-movie-review-sentiment-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed machine learning models to classify sentiment in movie reviews using the SST-5 dataset. Extracted text-based features and implemented Logistic Regression and KNN classifiers to predict sentiment categories. Model performance was evaluated using cross-validation and ROC-AUC metrics. PCA and K-Means clustering were also applied to sentence embeddings to explore patterns in the text data.\nTools: Python, Scikit-learn, NLP, Logistic Regression, KNN, PCA, K-Means, Sentence Transformers"
+  },
+  {
+    "objectID": "projects.html#predictive-modeling-for-aluminum-durability",
+    "href": "projects.html#predictive-modeling-for-aluminum-durability",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a machine learning classification model to predict whether rolled aluminum components would pass an extreme durability test using manufacturing process variables and alloy composition features. Conducted extensive exploratory data analysis on a dataset containing over 120,000 observations. Compared multiple models including Logistic Regression, Random Forest, XGBoost, LightGBM, and CatBoost, selecting CatBoost due to the lowest log-loss. PCA and K-Means clustering were used to represent alloy composition interactions, and Optuna was used for hyperparameter tuning. The final ensemble model achieved a 0.421 log-loss and ranked 4th place on the leaderboard.\nTools: Python, CatBoost, XGBoost, LightGBM, Random Forest, PCA, K-Means, Optuna, Scikit-learn"
+  },
+  {
+    "objectID": "projects.html#crime-pattern-analysis-in-los-angeles",
+    "href": "projects.html#crime-pattern-analysis-in-los-angeles",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed crime data from the LAPD to investigate how crime patterns changed before, during, and after COVID-19. Conducted exploratory data analysis to study trends in crime timing, geographic distribution, and shifts in crime categories. Applied statistical methods including multinomial logistic regression and visualizations to examine how crime types and locations evolved across time periods.\nTools: R, Data Visualization, Statistical Modeling, Multinomial Logistic Regression, Exploratory Data Analysis"
+  },
+  {
+    "objectID": "projects.html#student-awareness-analysis-for-wescom-credit-union",
+    "href": "projects.html#student-awareness-analysis-for-wescom-credit-union",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed survey and operational data to understand awareness and perceptions of Wescom Credit Union among UCLA students. Used Snowflake to query and manage datasets and Power BI to build interactive dashboards visualizing student banking behavior, brand recognition, and engagement patterns. The results were used to propose data-driven strategies to improve Wescom’s visibility and engagement with UCLA students.\nTools: SQL, Snowflake, Power BI, Data Analysis, Business Analytics"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out if you’d like to connect about projects, internships, or opportunities.\n\n\nEmail: helenaevangelista30@gmail.com\nPhone: (925) 235-8265\nLinkedIn:\nhttps://www.linkedin.com/in/jesslyn-e-116b3126a\nGitHub:\nhttps://github.com/jessevangelistaaa"
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: helenaevangelista30@gmail.com\nPhone: (925) 235-8265\nLinkedIn:\nhttps://www.linkedin.com/in/jesslyn-e-116b3126a\nGitHub:\nhttps://github.com/jessevangelistaaa"
+  },
+  {
+    "objectID": "index.html#areas-of-interest",
+    "href": "index.html#areas-of-interest",
+    "title": "Home",
+    "section": "Areas of Interest",
+    "text": "Areas of Interest\n\nData Science\n\nMachine Learing\nStatistical Modeling\n\nData Visualization"
+  },
+  {
+    "objectID": "index.html#explore-my-work",
+    "href": "index.html#explore-my-work",
+    "title": "Home",
+    "section": "Explore My Work",
+    "text": "Explore My Work\n\nProjects\nExperience\nAbout\nContact"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "About Me",
+    "text": "About Me\nHi, my name is Jesslyn Evangelista. I am currently majoring in Statistics and Data Science at UCLA, with a minor in Data Science Engineering. I have strong interests in data analysis, machine learning, and statistical modeling. I enjoy working with data to uncover insights and build models that help solve real-world problems. I am an eager and quick learner, who is always excited to explore new tools and technologies in data science.\nThis website showcases my projects, experience, and technical skills."
+  },
+  {
+    "objectID": "experience.html#hammer-museum",
+    "href": "experience.html#hammer-museum",
+    "title": "Experience",
+    "section": "",
+    "text": "Gallery Ambassador\nLos Angeles, CA | May 2025 – Present\n\nProvide professional customer service to visitors in a fast-paced museum environment.\nMonitor gallery spaces to ensure the safety of artwork and compliance with museum policies.\nCommunicate effectively with visitors and staff while adapting to varying activity levels."
+  }
+]

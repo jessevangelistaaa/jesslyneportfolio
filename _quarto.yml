@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Jesslyn Evangelista"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: experience.qmd
+        text: Experience
+      - href: contact.qmd
+        text: Contact
+
+    right:
+      - icon: github
+        href: https://github.com/jessevangelistaaa
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jesslyn-e17/
+
+  page-footer:
+    center: "© 2026 Jesslyn Evangelista"
+
+format:
+  html:
+    theme: cosmo
+    toc: false
