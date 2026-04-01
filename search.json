@@ -46,7 +46,7 @@
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "Data Architecture Intern\nAnaheim, CA | June 2025 – Sep 2025\n\nDeveloped SQL queries using SSMS and Snowflake to analyze branch-level membership activity.\nAnalyzed UCLA student survey data to evaluate brand awareness of Wescom.\nBuilt Power BI dashboards to visualize trends in student banking behavior and engagement.\nCollaborated with the Data Science team to observe machine learning workflows using Dataiku.\n\n\n\n\n\nMath Tutor\nPleasant Hill, CA | Sept 2023 – May 2024\n\nProvided one-on-one tutoring to students in mathematics.\nExplained complex concepts in a clear and accessible way.\nHelped over 200 students strengthen their understanding of mathematical problem solving.\n\n\n\n\n\nDownload My Resume"
+    "text": "Gallery Ambassador\nLos Angeles, CA | May 2025 – Present\n\nProvide professional customer service to visitors in a fast-paced museum environment.\nMonitor gallery spaces to ensure the safety of artwork and compliance with museum policies.\nCommunicate effectively with visitors and staff while adapting to varying activity levels.\n\n\n\n\nData Architecture Intern\nAnaheim, CA | June 2025 – Sep 2025\n\nDeveloped SQL queries using SSMS and Snowflake to analyze branch-level membership activity.\nAnalyzed UCLA student survey data to evaluate brand awareness of Wescom.\nBuilt Power BI dashboards to visualize trends in student banking behavior and engagement.\nCollaborated with the Data Science team to observe machine learning workflows using Dataiku.\n\n\n\n\nMath Tutor\nPleasant Hill, CA | Sept 2023 – May 2024\n\nProvided one-on-one tutoring to students in mathematics.\nExplained complex concepts in a clear and accessible way.\nHelped over 200 students strengthen their understanding of mathematical problem solving.\n\n\n\n\nDownload My Resume"
   },
   {
     "objectID": "experience.html#wescom-credit-union",
@@ -138,5 +138,19 @@
     "title": "Home",
     "section": "About Me",
     "text": "About Me\nHi, my name is Jesslyn Evangelista. I am currently majoring in Statistics and Data Science at UCLA, with a minor in Data Science Engineering. I have strong interests in data analysis, machine learning, and statistical modeling. I enjoy working with data to uncover insights and build models that help solve real-world problems. I am an eager and quick learner, who is always excited to explore new tools and technologies in data science.\nThis website showcases my projects, experience, and technical skills."
+  },
+  {
+    "objectID": "experience.html#hammer-museum",
+    "href": "experience.html#hammer-museum",
+    "title": "Experience",
+    "section": "",
+    "text": "Gallery Ambassador\nLos Angeles, CA | May 2025 – Present\n\nProvide professional customer service to visitors in a fast-paced museum environment.\nMonitor gallery spaces to ensure the safety of artwork and compliance with museum policies.\nCommunicate effectively with visitors and staff while adapting to varying activity levels."
+  },
+  {
+    "objectID": "experience.html#wescom-financial",
+    "href": "experience.html#wescom-financial",
+    "title": "Experience",
+    "section": "",
+    "text": "Data Architecture Intern\nAnaheim, CA | June 2025 – Sep 2025\n\nDeveloped SQL queries using SSMS and Snowflake to analyze branch-level membership activity.\nAnalyzed UCLA student survey data to evaluate brand awareness of Wescom.\nBuilt Power BI dashboards to visualize trends in student banking behavior and engagement.\nCollaborated with the Data Science team to observe machine learning workflows using Dataiku."
   }
 ]
